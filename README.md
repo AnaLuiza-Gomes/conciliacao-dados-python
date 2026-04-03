@@ -9,7 +9,7 @@ Projeto desenvolvido em Python com o objetivo de simular um processo de concilia
 - Geração automática de relatório
 
 
-## Stack Tecnológica:
+## Tecnológias utilizadas:
 - Python
 - Pandas
 
