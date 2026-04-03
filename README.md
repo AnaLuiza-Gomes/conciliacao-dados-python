@@ -8,6 +8,7 @@ Projeto desenvolvido em Python com o objetivo de simular um processo de concilia
 - Identificação de divergências
 - Geração automática de relatório
 
+
 ## Tecnologias utilizadas:
 - Python
 - Pandas
